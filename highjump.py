@@ -1,1 +1,0 @@
-print("This has highjump power")
